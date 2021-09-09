@@ -1,2 +1,2 @@
-# AplicatieFarmacie
-aplicatie pentru gestionarea unei farmacii dintr-un spital
+# AplicatieFarmacieISS
+exemplu aplicatie pentru gestionarea unei farmacii dintr-un spital
